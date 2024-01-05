@@ -2,6 +2,7 @@
 E621 Post Downloader written in Python
 
 ## Installation
+FurFetch requires no prior downloads/installations; other than a copy of Windows (Does not work on MACOS currently)
 Click on releases and select the latest release. Then download FurFetch.zip from that release. <br>
 Unzip this in a directory of your choosing and run FurFetch.exe
 
