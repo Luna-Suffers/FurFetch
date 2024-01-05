@@ -1,5 +1,5 @@
 # FurFetcher
-E621 Post Downloader written in Python
+E621 Image Downloader written in Python
 
 ## Installation
 FurFetch requires no prior downloads/installations; other than a copy of Windows (Does not work on MACOS currently) <br>
