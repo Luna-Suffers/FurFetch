@@ -4,7 +4,7 @@ E621 Post Downloader written in Python
 ## Installation
 FurFetch requires no prior downloads/installations; other than a copy of Windows (Does not work on MACOS currently) <br>
 Click on releases and select the latest release. Then download FurFetch.zip from that release. <br>
-Unzip this in a directory of your choosing and run FurFetch.exe
+Unzip this in a directory of your choosing and run FurFetch.exe - You may get a windows defender warning simply click 'more info' and then 'run anyway' which will permanently whitelist the file (you won't get the warning again) 
 
 ## Setup
 The console will display a message that two new files have been created - 'userData.json' and 'userTags.txt' <br>
@@ -28,3 +28,7 @@ On E621 image 'tags' fall under six main categories:
 * META - tags that correspond to metadata associated with the image (i.e filetype, size, date of upload) <br>
 
 As well as these tags I have added 'LIMIT' at the bottom of userTags.txt. Whilst this isn't an official 'tag' it is used by FurFetch to determine how many images you wish to download (i.e 5, 50, 200). Leaving it blank defaults to the maximum of 320 photos. 
+
+## Known Issues
+If a tag contains multiple words (i.e hand drawn) than you should use '_' rather than spaces; otherwise the program will split it into two seperate words 'hand', 'drawn' which will not give any responses (this will be fixed for V1.1)
+Directory is made before any files are downloaded, meaning if no files are found an empty directory is made (this will be fixed for V1.1)
