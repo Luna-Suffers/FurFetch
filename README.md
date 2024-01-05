@@ -8,7 +8,7 @@ Unzip this in a directory of your choosing and run FurFetch.exe
 ## Setup
 The console will display a message that two new files have been created - 'userData.json' and 'userTags.txt' <br>
 Firstly open 'userData.json' (which can be opened using notepad) and replace 'YOUR USERNAME HERE' with your E621 Username and 'YOUR API KEY HERE' with you api key that you can get from 'Manage API access' under the accounts tab <br>
-![Manage API Access](https://github.com/Luna-Suffers/FurFetcher/assets/128991823/01af27e7-6843-4f43-9165-24635d57dc88)
+![Manage API Access](https://github.com/Luna-Suffers/FurFetcher/assets/128991823/01af27e7-6843-4f43-9165-24635d57dc88) <br>
 Create a new key and past that in 'userData.json' <br>
 
 Now move to 'userTags.txt'; you will see that this already contains some data - feel free to run this to confirm that you have setup 'userData.json' correctly it should download a single image under 'FurFetchDownloads/Kieran_Lockworkorange_2023'
