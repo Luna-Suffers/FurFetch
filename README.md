@@ -29,6 +29,3 @@ On E621 image 'tags' fall under six main categories:
 
 As well as these tags I have added 'LIMIT' at the bottom of userTags.txt. Whilst this isn't an official 'tag' it is used by FurFetch to determine how many images you wish to download (i.e 5, 50, 200). Leaving it blank defaults to the maximum of 320 photos. 
 
-## Known Issues
-If a tag contains multiple words (i.e hand drawn) than you should use '_' rather than spaces; otherwise the program will split it into two seperate words 'hand', 'drawn' which will not give any responses (this will be fixed for V1.1)
-Directory is made before any files are downloaded, meaning if no files are found an empty directory is made (this will be fixed for V1.1)
