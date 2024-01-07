@@ -29,3 +29,8 @@ On E621 image 'tags' fall under six main categories:
 
 As well as these tags I have added 'LIMIT' at the bottom of userTags.txt. Whilst this isn't an official 'tag' it is used by FurFetch to determine how many images you wish to download (i.e 5, 50, 200). Leaving it blank defaults to the maximum of 320 photos. 
 
+## Upcoming Features / Known Issues
+* Greater detail to error messages; especially when it comes to why tags are rejected
+* Partial searching using a mixture of tags (if no posts found with all of them)
+* Faster downloading of images
+* Not completely replacing userData or userTags files if either is missing (saves you reentering data if the file is still there)
