@@ -1,4 +1,4 @@
-# FurFetcher
+# FurFetch - E621 Image Downloader
 E621 Image Downloader written in Python
 
 ## Installation
