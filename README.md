@@ -16,7 +16,7 @@ Current Version: 1.2
 * Faster downloading of images
 
 ## Why?
-Why did I make an E621 downloader you ask? Well there are many reasons, but mainly I used to use the E621 Downloader by McSib but found it required lots of prerequisite downloads and setup; which is quite lengthy for the common user, so I decided to make my own which could then be compiled to a single app EXE
+Why did I make an E621 downloader you ask? Mainly because I used to use the E621 Downloader by McSib, but found it required lots of prerequisite downloads and setup; which is lengthy and bloaty for most users, so I decided to make my own which could then be compiled to a single .EXE
 
 # Installation
 FurFetch requires no prior packages/installations; other than a copy of Windows (Does not work on MACOS or Linux currently) <br>
@@ -28,7 +28,7 @@ The console will display a message that two new files have been created - 'userD
 Firstly open 'userData.json' (which can be opened using notepad) and replace 'YOUR USERNAME HERE' with your E621 Username and 'YOUR API KEY HERE' with you api key that you can get from 'Manage API access' under the accounts tab: <br>
 
 ![Manage API Access](https://github.com/Luna-Suffers/FurFetcher/assets/128991823/01af27e7-6843-4f43-9165-24635d57dc88) <br>
-Create a new key and past that in 'userData.json' <br>
+Create a new key and paste that in 'userData.json' <br>
 
 Now move to 'userTags.txt'; you will see that this already contains some data - feel free to run this to confirm that you have setup 'userData.json' correctly it should download a single image under 'FurFetchDownloads/Kieran_Lockworkorange_2023'
 
